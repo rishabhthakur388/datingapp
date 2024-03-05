@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "question": ["reading"],
+      "response": ["Hey, I noticed you're into reading! I'm always on the lookout for a good book. Any recommendations for something I should add to my list?",
+      "I love reading too! Do you have a favorite genre or author? I'm looking for something new to dive into."]
+    },
+    {
+      "id": 2,
+      "question": ["movies"],
+      "response": ["Movies are my go-to for a relaxing evening. Have you watched anything amazing lately that you'd recommend?",
+      "I'm a movie buff as well! Do you have a favorite genre or director? I'm always looking for hidden gems to watch."]
+    },
+    {
+      "id": 3,
+      "question": ["music"],
+      "response": ["I saw you're into music. What's currently playing on your playlist? I'm looking for new tunes and would love some suggestions.",
+      "Music is such a great way to unwind. Any favorite bands or genres you're really into right now?"]
+    },
+    {
+      "id": 4,
+      "question": ["cooking"],
+      "response": ["I noticed you're into cooking! I'm always on the hunt for new recipes. Any favorite dishes you love to cook?",
+      "I enjoy cooking too! Do you have a signature dish or a favorite cuisine you like experimenting with in the kitchen?"]
+    }
+  ]
+
